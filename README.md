@@ -59,4 +59,4 @@ SQL Queries:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/ClaimWatchAI.png)
