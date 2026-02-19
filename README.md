@@ -56,3 +56,7 @@ SQL Queries:
 [Download SQL](sql2.sql)
 
 
+
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
