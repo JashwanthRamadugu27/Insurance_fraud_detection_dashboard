@@ -1,4 +1,4 @@
-# ClaimWatchAI — Insurance Fraud Detection Analytics System
+# ClaimWatchAI — Insurance Fraud Detection Analytics System 🚨🚨
 
 ## Overview
 ClaimWatchAI is an explainable fraud detection system that helps insurance companies identify suspicious claims using behavioral risk indicators and interactive analytics dashboard.
@@ -46,13 +46,11 @@ Claims are classified into:
 
 ## PROJECT STRUCTURE
 Power BI Dashboard:
-[Download Dashboard]()
+[Download Dashboard](https://raw.githubusercontent.com/JashwanthRamadugu27/Insurance_fraud_detection_dashboard/refs/heads/main/Insurance_fraud_detection_dashboard.pbix)
 
 Excel File:
-[Download Excel]()
+[Download Excel](ClaimWatchAI.xlsx)
 
-Dataset:
-[Download Dataset]()
 
 SQL Queries:
 [Download SQL]()
