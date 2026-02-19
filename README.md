@@ -44,6 +44,17 @@ Claims are classified into:
 - Interactive investigation dashboard
 - Decision support system for investigators
 
----
+## PROJECT STRUCTURE
+Power BI Dashboard:
+[Download Dashboard]()
+
+Excel File:
+[Download Excel]()
+
+Dataset:
+[Download Dataset]()
+
+SQL Queries:
+[Download SQL]()
 
 ## Project Structure
