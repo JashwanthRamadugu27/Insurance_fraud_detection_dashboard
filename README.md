@@ -14,6 +14,12 @@ Manual verification is slow, expensive, and often misses hidden fraud patterns.
 ---
 
 ## Solution
+ClaimWatchAI is a rule-based fraud detection analytics system that identifies suspicious insurance claims using behavioral and risk indicators.
+
+The system analyzes claim attributes such as claim amount, policy duration, late-night incidents, missing police reports, past claim history, and suspicious locations.
+Each claim is assigned a Fraud Score and categorized into Low, Medium, or High Risk.
+
+Using SQL analysis and an interactive Power BI dashboard, investigators can instantly filter, explore patterns, and prioritize high-risk claims for manual verification — reducing investigation time and preventing fraudulent payouts.
 ClaimWatchAI assigns a fraud risk score to each claim based on suspicious behaviors such as:
 
 - Late night accidents
@@ -44,6 +50,10 @@ Claims are classified into:
 - Interactive investigation dashboard
 - Decision support system for investigators
 
+## Dashboard Preview
+
+![ClaimWatchAI Dashboard](ClaimWatchAI.png)
+
 ## PROJECT STRUCTURE
 Power BI Dashboard:
 [Download Dashboard](https://raw.githubusercontent.com/JashwanthRamadugu27/Insurance_fraud_detection_dashboard/refs/heads/main/Insurance_fraud_detection_dashboard.pbix)
@@ -56,7 +66,3 @@ SQL Queries:
 [Download SQL](sql2.sql)
 
 
-
-## Dashboard Preview
-
-![Dashboard](screenshots/ClaimWatchAI.png)
